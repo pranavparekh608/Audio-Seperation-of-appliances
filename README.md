@@ -1,0 +1,1 @@
+The following project focuses on monitoring electrical consumption by the automatic toggling of appliances. We have published a manuscript based on this for ICOST, which is also attached to this repository. 
