@@ -1,1 +1,1 @@
-The following project focuses on monitoring electrical consumption by the automatic toggling of appliances. We have published a manuscript based on this for ICOST, which is also attached to this repository. 
+The following project focuses on monitoring electrical consumption by automatically toggling appliances. We have published a manuscript based on this for ICOST, which is also attached to this repository. Here is the link to the manuscript: https://link.springer.com/chapter/10.1007/978-3-031-43950-6_4
